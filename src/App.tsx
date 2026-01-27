@@ -109,7 +109,7 @@ export default function App() {
         <BreakdownTable projections={projections} sortedTiers={sortedTiers} />
 
         <p className="text-center text-gray-600 text-xs mt-4">
-          Built with React + TypeScript + Recharts
+          © 2026 Adrien Balcioglu. https://adrien-balcioglu.pages.dev/ Built with React + TypeScript + Recharts
         </p>
       </div>
     </div>
